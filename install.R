@@ -1,5 +1,6 @@
 # install.R
 # Install all required packages for the assignment
+install.packages("readr") # for binder
 
 packages <- c(
   "dplyr",
